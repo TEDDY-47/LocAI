@@ -1,0 +1,4 @@
+*.gguf
+*.part
+*.log
+*.pid
